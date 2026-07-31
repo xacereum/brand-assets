@@ -18,4 +18,4 @@ When using our logo, please adhere to the following guidelines:
 
 These assets are provided for the sole purpose of promoting Xacereum and representing it accurately on trading platforms and media.
 
-If you require any other formats (e.g., SVG, EPS) or have specific branding inquiries, please reach out to our team at [contact@xacereum.com](mailto:contact@xacereum.com).
+If you require any other formats (e.g., SVG, EPS) or have specific branding inquiries, please reach out to our team at [support@xacereum.com](mailto:support@xacereum.com).
